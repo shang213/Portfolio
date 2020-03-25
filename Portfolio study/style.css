@@ -1,0 +1,90 @@
+*{
+    padding: 0px;
+    margin : 0px;
+}
+#container{
+    width: 975px;
+}
+header{
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 975px;
+}
+p{
+    padding: 10px;
+    margin: 5px;
+}
+header h1{
+    margin-right: 400px;
+    display: inline-block;
+
+}
+header h3{
+    display: inline-block;
+}
+#top{
+    background: radial-gradient(rgb(185, 152, 152),rgb(126, 88, 88),rgb(61, 38, 38));
+}
+#profile{
+    width: 390px;
+    border: solid 5px grey;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#intro{
+    display: inline-block;
+    background: white;
+    width: 510px;
+    vertical-align: top;
+    margin: 20px;
+    height: 265px;
+}
+#intro a{
+    margin: 20px;
+    
+}
+.column{
+    background: white;
+    display: inline-block;
+    height: 650px;
+    width: 300px;
+    vertical-align: top;
+    margin: 10px;
+}
+.box_header{
+    background: linear-gradient(rgb(172, 167, 167),rgb(107, 102, 102),rgb(131, 124, 124));
+    height: 30px;
+}
+.info{
+    height: 170px;
+}
+
+.column img{
+    width: 300px;
+}
+.icons img{
+    display: inline-block;
+    width: 50px;
+}
+.button{
+    text-align: center;
+    margin: 5px;
+}
+.button input{
+    vertical-align:middle;
+    background-color: rgb(46, 134, 46);
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 7px;
+    color: white;
+}
+footer{
+    text-align: center;
+}
+footer ul li{
+    display: inline-block;
+    
+}
+footer ul li img{
+    width: 40px;
+}
